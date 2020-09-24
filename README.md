@@ -1,6 +1,34 @@
 clothing-headstart
 # Clothing - Headstart
 
+Determine your style:
+
+|| Minimal || Stylish || Glamour ||
+| YES | YES | NO |
+
+
+- Glamour: NO
+
+- Sportief: NO
+
+- Boheme: NO
+
+- Classic: YES
+
+- Artistique: NO
+
+- Business-like: Yes
+
+- Perfect: NO
+
+- Rock: NO
+
+- Gothic: NO
+
+- Western: NO
+
+- Vintage: NO
+
 ## Categories
 
 Following thread.com categories
