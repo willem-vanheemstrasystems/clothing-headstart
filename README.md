@@ -3,7 +3,8 @@ clothing-headstart
 
 Determine your style:
 
-|| Minimal || Stylish || Glamour ||
+| Minimal | Stylish | Glamour |
+
 | YES | YES | NO |
 
 
