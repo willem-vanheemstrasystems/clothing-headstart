@@ -3,32 +3,10 @@ clothing-headstart
 
 Determine your style:
 
-| Minimal | Stylish | Glamour |
 
-| YES | YES | NO |
+| YES: | Minimal | Stylish | Glamour | Classic | Business-like | 
+| NO: | Glamour | Sporty | Boheme | Artistique | Perfectionist | Rock | Gothic | Western | Vintage |
 
-
-- Glamour: NO
-
-- Sportief: NO
-
-- Boheme: NO
-
-- Classic: YES
-
-- Artistique: NO
-
-- Business-like: Yes
-
-- Perfect: NO
-
-- Rock: NO
-
-- Gothic: NO
-
-- Western: NO
-
-- Vintage: NO
 
 ## Categories
 
