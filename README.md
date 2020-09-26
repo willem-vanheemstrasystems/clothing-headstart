@@ -1,12 +1,42 @@
 clothing-headstart
 # Clothing - Headstart
 
-Determine your style:
+Based on the book "Minimal Life, mit weniger zu mehr" by Rachel Aust
 
+## Determine your style
 
-| YES: | Minimal, Stylish, Glamour, Classic, Business-like |
+| YES | Minimal, Stylish, Glamour, Classic, Business-like |
 | --- | --- |
-| NO: | Glamour | Sporty | Boheme | Artistique | Perfectionist | Rock | Gothic | Western | Vintage |
+| NO | Glamour, Sporty, Boheme, Artistique, Perfectionist, Rock, Gothic, Western, Vintage |
+
+## Determine your activities
+
+A pie chart of activities divided over a year
+
+1. Casual: 35%
+
+2. Work-related: 50%
+
+3. Leisure: 5%
+
+4. Social: 5%
+
+5. Sports and Recreation: 5%
+
+## Determine your colour palette:
+
+### Main Colours
+
+Your Type:
+
+| YES | Winter |
+| NO | Spring, Summer, Autumn |
+
+### Details Colours
+
+
+### Colours of Accessoiries
+
 
 
 ## Categories
