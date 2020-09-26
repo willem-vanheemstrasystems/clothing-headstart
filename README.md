@@ -29,14 +29,15 @@ See also https://infinitcloset.com/category/color-analysis/
 
 ### Main Colours
 
+[Four Season Color Analysis system](https://infinitcloset.com/category/4-season-color-analysis/)
+
 Your Type:
 
 | YES | Winter |
 | --- | --- |
 | NO | Spring, Summer, Autumn |
 
-
-#### Main Colour: Winter
+#### Main Colour: [Winter](https://infinitcloset.com/4-season-color-analysis/winter-colour-palette-4-season-color-analysis/)
 
 You will suit colors that are ***sharp***, ***clear*** and ***high contrast***. Winters can also wear ***black*** and ***pure white*** comfortably. If you feel that black overpowers you, but your overall coloring is cool, then you may fit better into Summer.
 
@@ -46,13 +47,17 @@ You will suit colors that are ***sharp***, ***clear*** and ***high contrast***. 
 
 ***Eyes***: Cool steel blue, clear blue, cool green or dark brown to black eyes. High contrast between the white of the eyes and the iris, the eyes are bright and jewel-like, not hazy. ***Clear Blue***
 
-1. a
+The Winter colour palette would suit people who fall into Deep Winter, Cool Winter and Bright Winter in the [12 Season Color Analysis system](https://infinitcloset.com/category/12-seasons-color-analysis/). If you are looking for a more specific palette and your colouring is more neutral than Cool Winter, check Dark or Bright Winter instead.
 
-2. b
+| YES | Deep Winter |
+| --- | --- |
+| NO | Cool Winter, Bright Winter |
 
-3. c
+1. Deep Winter: 
 
-4. d
+2. Cool Winter:
+
+3. Bright Winter:
 
 
 ### Details Colours
