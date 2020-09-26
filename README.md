@@ -101,6 +101,7 @@ Cool Summer skin is always cool, with a blue undertone and often a pink blush. I
 
 Eyes are usually blue, green, light hazel or even a very light brown. BLUE
 
+Image: [Cool Summer Palette](https://github.com/willem-vanheemstrasystems/clothing-headstart/raw/master/Cool-Summer-Palette.jpg)
 
 2. Light Summer: 
 
