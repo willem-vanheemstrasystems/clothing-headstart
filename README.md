@@ -79,7 +79,7 @@ Good ***suit*** colors are ***charcoal and medium gray***, ***cool tans and brow
 
 The [12 Season Color Analysis system](https://infinitcloset.com/category/12-seasons-color-analysis/).
 
-| YES | [Cool Summer](https://infinitcloset.com/12-seasons-color-analysis/cool-summer-palette-true-summer-cool-light/), |
+| YES | [Cool Summer](https://infinitcloset.com/12-seasons-color-analysis/cool-summer-palette-true-summer-cool-light/) |
 | --- | --- |
 | NO | [Light Summer](https://infinitcloset.com/12-seasons-color-analysis/light-summer-palette-light-cool/), [Soft Summer](https://infinitcloset.com/12-seasons-color-analysis/soft-summer-palette-soft-cool/) |
 
