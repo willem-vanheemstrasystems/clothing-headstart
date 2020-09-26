@@ -39,9 +39,9 @@ Your Type (Skin Color and Hair Color):
 | --- | --- |
 | NO | Spring (Warm and Light), Autumn (Warm and Dark), Winter (Cool and Dark) |
 
-#### Main Colour: [Spring](https://infinitcloset.com/4-season-color-analysis/spring-colour-palette-4-season-color-analysis/)
+#### Main Colour: [Spring](https://infinitcloset.com/4-season-color-analysis/spring-color-palette/)
 
-#### Main Colour: [Summer](https://infinitcloset.com/4-season-color-analysis/summer-colour-palette-4-season-color-analysis/)
+#### Main Colour: [Summer](https://infinitcloset.com/4-season-color-analysis/summer-color-palette/)
 
 Role Models: ***Anthony Hopkins***
 
@@ -106,7 +106,7 @@ Eyes are usually blue, green, light hazel or even a very light brown. BLUE
 
 3. Soft Summer: 
 
-#### Main Colour: [Autumn](https://infinitcloset.com/4-season-color-analysis/autumn-colour-palette-4-season-color-analysis/)
+#### Main Colour: [Autumn](https://infinitcloset.com/4-season-color-analysis/autumn-color-palette/)
 
 #### Main Colour: [Winter](https://infinitcloset.com/4-season-color-analysis/winter-colour-palette-4-season-color-analysis/)
 
