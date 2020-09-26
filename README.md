@@ -29,7 +29,7 @@ See also https://infinitcloset.com/category/color-analysis/
 
 and get the respective color fan from [Color Selector](http://www.colormeaseason.com/products/Color-Selector-Summer.html)
 
-and see the 12 seasons analysis in one image https://github.com/willem-vanheemstrasystems/clothing-headstart/raw/master/welk-seizoenstype-ben-jij1.jpg
+and see the 12 seasons analysis in one image https://github.com/willem-vanheemstrasystems/clothing-headstart/raw/master/welk-seizoenstype-ben-jij1.jpg as found on https://blognienke.wordpress.com/tag/kleurenwaaier/
 
 ### Main Colours
 
