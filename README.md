@@ -61,7 +61,7 @@ Do you know there are no brown-eyed Summers, but only blues and greens? There mi
 
 ***Skin:***
 
-The skin doesn’t have that golden quality of Spring, but instead, is pink.
+The skin doesn’t have that golden quality of Spring, but instead, is ***pink***.
 
 Summer skin tone is soft and light, ranging from the lightest porcelain to pale or neutral beige. They also have a translucent quality to their skin, with blue, rose, or pink undertone. If your porcelain skin can’t abide by the sun, or you have an ivory skin that freckles but fades fast, you’re likely a Summer.
 
