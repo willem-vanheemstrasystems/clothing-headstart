@@ -95,7 +95,7 @@ Three dimensions of color (Hue, Lightness/Value, Chroma/Saturation) that suit Co
 
 - Hue: Cool (blue instead of red)
 
-- Lightness/Value: Medium (not dark, not light
+- Lightness/Value: Medium (not dark, not light)
 
 - Chroma/Saturation: Medium (not saturated, not pale)
 
