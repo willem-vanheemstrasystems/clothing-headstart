@@ -45,7 +45,7 @@ Your Type (Skin Color and Hair Color):
 
 #### Main Colour: [Spring](https://infinitcloset.com/4-season-color-analysis/spring-color-palette/)
 
-#### Main Colour: [Summer](https://infinitcloset.com/4-season-color-analysis/summer-color-palette/)
+#### Main Colour: [Summer](https://infinitcloset.com/4-season-color-analysis/summer-color-palette/) THIS IS ME
 
 Role Models: ***Anthony Hopkins***
 
