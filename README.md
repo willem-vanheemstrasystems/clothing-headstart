@@ -79,11 +79,28 @@ Good ***suit*** colors are ***charcoal and medium gray***, ***cool tans and brow
 
 The [12 Season Color Analysis system](https://infinitcloset.com/category/12-seasons-color-analysis/).
 
-| YES | - |
+| YES | [Cool Summer](https://infinitcloset.com/12-seasons-color-analysis/cool-summer-palette-true-summer-cool-light/), |
 | --- | --- |
-| NO | [Cool Summer](https://infinitcloset.com/12-seasons-color-analysis/cool-summer-palette-true-summer-cool-light/), [Light Summer](https://infinitcloset.com/12-seasons-color-analysis/light-summer-palette-light-cool/), [Soft Summer](https://infinitcloset.com/12-seasons-color-analysis/soft-summer-palette-soft-cool/) |
+| NO | [Light Summer](https://infinitcloset.com/12-seasons-color-analysis/light-summer-palette-light-cool/), [Soft Summer](https://infinitcloset.com/12-seasons-color-analysis/soft-summer-palette-soft-cool/) |
 
-1. Cool Summer: 
+1. Cool Summer: ====== THIS IS ME =======
+
+The easiest way of figuring out if you are a Cool Summer is looking at how your skin reacts to yellow-green, golden brown or burnt orange colors. If you look awful in those colors you are most likely a Cool Summer. The coolness of this season is uncompromising: anything warm and the skin becomes orange or yellow instead of looking healthy and alive.
+
+Cool Summer is also known as True Summer in the sci/Art method, and it’s the opposite season to Cool or True Winter. They are both Cool seasons, but while Winter is dark and contrasting, True Summer is Light and Soft and cannot wear the intense colors of Winter, or black. It shines in ***cool*** and ***subdued pastels***, ***greys*** and ***blues*** instead. Cool summers have an overall ashy or cool coloring, with grey, blue or slate eyes, ash brown hair (that can become quite dark but not black) and cool or neutral beige skin.
+
+***Hair:***
+
+Hair can be a medium or dark ash brown, grey or a very light ash blonde. There is no warmth in the air, so redheads aren’t usually Cool Summers unless they dye their hair and have extremely pale alabaster skin. GREY
+
+***Skin:***
+
+Cool Summer skin is always cool, with a blue undertone and often a pink blush. It can be light alabaster to beige, but above all it’s very cool and doesn’t tan naturally. PINK
+
+***Eyes:***
+
+Eyes are usually blue, green, light hazel or even a very light brown. BLUE
+
 
 2. Light Summer: 
 
