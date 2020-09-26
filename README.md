@@ -77,6 +77,17 @@ On the other hand, the brown hair can be light, medium, dark, or even a mousy br
 
 Good ***suit*** colors are ***charcoal and medium gray***, ***cool tans and browns***, and ***light navy blue***. Black may work for you, white will sometimes work.
 
+The [12 Season Color Analysis system](https://infinitcloset.com/category/12-seasons-color-analysis/).
+
+| YES | - |
+| --- | --- |
+| NO | [Cool Summer](https://infinitcloset.com/12-seasons-color-analysis/cool-summer-palette-true-summer-cool-light/), [Light Summer](https://infinitcloset.com/12-seasons-color-analysis/light-summer-palette-light-cool/), [Soft Summer](https://infinitcloset.com/12-seasons-color-analysis/soft-summer-palette-soft-cool/) |
+
+1. Cool Summer: 
+
+2. Light Summer: 
+
+3. Soft Summer: 
 
 #### Main Colour: [Autumn](https://infinitcloset.com/4-season-color-analysis/autumn-colour-palette-4-season-color-analysis/)
 
