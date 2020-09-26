@@ -27,6 +27,8 @@ A pie chart of activities divided over a year
 
 See also https://infinitcloset.com/category/color-analysis/
 
+understand the three dimensions of color (Hue, Lightness/Value, Chroma/Saturation) from https://github.com/willem-vanheemstrasystems/clothing-headstart/blob/master/sciart_colour_clock1.jpg
+
 and get the respective color fan from [Color Selector](http://www.colormeaseason.com/products/Color-Selector-Summer.html)
 
 and see the 12 seasons analysis in one image https://github.com/willem-vanheemstrasystems/clothing-headstart/raw/master/welk-seizoenstype-ben-jij1.jpg as found on https://blognienke.wordpress.com/tag/kleurenwaaier/
@@ -88,6 +90,14 @@ The [12 Season Color Analysis system](https://infinitcloset.com/category/12-seas
 | NO | [Light Summer](https://infinitcloset.com/12-seasons-color-analysis/light-summer-palette-light-cool/), [Soft Summer](https://infinitcloset.com/12-seasons-color-analysis/soft-summer-palette-soft-cool/) |
 
 1. Cool Summer: ====== THIS IS ME =======
+
+Three dimensions of color (Hue, Lightness/Value, Chroma/Saturation) that suit Cool Summer:
+
+- Hue: Cool (blue instead of red)
+
+- Lightness/Value: Medium (not dark, not light
+
+- Chroma/Saturation: Medium (not saturated, not pale)
 
 The easiest way of figuring out if you are a Cool Summer is looking at how your skin reacts to yellow-green, golden brown or burnt orange colors. If you look awful in those colors you are most likely a Cool Summer. The coolness of this season is uncompromising: anything warm and the skin becomes orange or yellow instead of looking healthy and alive.
 
