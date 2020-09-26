@@ -27,6 +27,8 @@ A pie chart of activities divided over a year
 
 See also https://infinitcloset.com/category/color-analysis/
 
+and get the respective color fan from [Color Fan](http://www.colormeaseason.com/products/Color-Fan-Summer.html)
+
 ### Main Colours
 
 [Four Season Color Analysis system](https://infinitcloset.com/category/4-season-color-analysis/)
