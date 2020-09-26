@@ -31,11 +31,11 @@ See also https://infinitcloset.com/category/color-analysis/
 
 [Four Season Color Analysis system](https://infinitcloset.com/category/4-season-color-analysis/)
 
-Your Type:
+Your Type (Skin Color and Hair Color):
 
-| YES | Winter |
+| YES | Winter (Cool and Dark) |
 | --- | --- |
-| NO | Spring, Summer, Autumn |
+| NO | Spring (Warm and Light), Summer (Cool and Light), Autumn (Warm and Dark) |
 
 #### Main Colour: [Winter](https://infinitcloset.com/4-season-color-analysis/winter-colour-palette-4-season-color-analysis/)
 
